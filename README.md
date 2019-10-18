@@ -35,7 +35,3 @@ APK下载体验地址：https://github.com/jaychou2012/flutter_tv/blob/master/ap
 
 ![运行效果](https://github.com/jaychou2012/flutter_tv/blob/master/screenshot/device-2019-08-12-224601.png?raw=true)
 
-
-推荐课程：
-
-![推荐课程](https://raw.githubusercontent.com/jaychou2012/flutter_notes/master/screenshot/20190804222342.jpg)
